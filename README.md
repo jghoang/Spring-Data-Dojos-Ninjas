@@ -6,9 +6,9 @@
 
 ### Topics:
 
-- One-To-Many relationships
+-One-To-Many relationships
 
--JPA
+	-JPA
 
 Tasks:
 * Allow users to create a new dojo.
